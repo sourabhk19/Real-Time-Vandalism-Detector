@@ -2,7 +2,7 @@
 
 ## Objective 
 
-- To build a light-weight real-time vandalism detection with Image processing techniques which can be run on small processors like Raspberry-pi. 
+- To build a light-weight real-time vandalism detector with Image processing techniques which can be run on small processors like Raspberry-pi. 
 - The input is real-time surveillance footage.
 - The system should immediately alert the user if vandalism is detected on the property monitored.
 
@@ -22,6 +22,9 @@
     - For passing a video file, use  ` python vandalism-detector.py -v "path to video file" `
     - For passing size of Monitoring Area, use  ` python vandalism-detector.py -a "Monitoring Area size " `. Default size is 500.
     - If no arguments are passed, the program automatically uses Webcam as default video source.
-    
+## References
+- [SSIM](https://en.wikipedia.org/wiki/Structural_similarity)
+- [Background Subtraction](https://en.wikipedia.org/wiki/Foreground_detection#Background_subtraction)
+- OpenCV [documentation](https://docs.opencv.org/master/)
 ## Acknowledgements
 [PyImageSearch](https://www.pyimagesearch.com/) tutorials have been extremely useful for utilizing various python libraries.
