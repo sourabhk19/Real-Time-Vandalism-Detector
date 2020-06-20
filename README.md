@@ -16,7 +16,7 @@
 - Every window is passed to SSIM and if the value is below a set threshold, alert is generated.
 
 ## How to Run
-- Make sure you have all the python libraries installed. (I suggest installing Anaconda) 
+- Install Imutils, scikit-learn, numpy and OpenCV. (I suggest using Anaconda) 
 - On Windows, use command prompt to run ` python vandalism-detector `
   - #### Arguments
     - For passing a video file, use  ` python vandalism-detector -v "path to video file" `
