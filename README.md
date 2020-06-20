@@ -17,7 +17,7 @@
 
 ## How to Run
 - Install Imutils, scikit-learn, numpy and OpenCV. (I suggest using Anaconda) 
-- On Windows, use command prompt to run ` python vandalism-detector `
+- After downloading [this](https://github.com/sourabhk19/Real-Time-Vandalism-Detector/blob/master/vandalism-detector.py), Use command prompt to run ` python vandalism-detector `
   - #### Arguments
     - For passing a video file, use  ` python vandalism-detector -v "path to video file" `
     - For passing size of Monitoring Area, use  ` python vandalism-detector -a "Monitoring Area size " `. Default size is 500.
