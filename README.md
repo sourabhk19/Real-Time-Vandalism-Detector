@@ -21,6 +21,7 @@
   - #### Arguments
     - ` python vandalism-detector -v "path to video file" `
     - ` python vandalism-detector -a "Monitoring Area size " `
+    - If no arguments are passed, the program automatically uses Webcam as default video source.
     
 ## Acknowledgements
 [PyImageSearch](https://www.pyimagesearch.com/) tutorials have been extremely useful for utilizing various python libraries.
