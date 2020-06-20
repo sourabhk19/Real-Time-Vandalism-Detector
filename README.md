@@ -15,5 +15,12 @@
 - Sliding Window Approach is used to extract small windows which could potentially contain Vandalism.
 - Every window is passed to SSIM and if the value is below a set threshold, alert is generated.
 
+## How to Run
+- Make sure you have all the python libraries installed. (I suggest installing Anaconda) 
+- On Windows, use command prompt to run 'python vandalism-detector'
+  - ### Arguments
+    -'python vandalism-detector -v "path to video file"'
+    -'python vandalism-detector -a "Monitoring Area size "'
+    
 ## Acknowledgements
 [PyImageSearch](https://www.pyimagesearch.com/) tutorials have been extremely useful for utilizing various python libraries.
