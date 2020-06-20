@@ -17,10 +17,10 @@
 
 ## How to Run
 - Make sure you have all the python libraries installed. (I suggest installing Anaconda) 
-- On Windows, use command prompt to run ''' python vandalism-detector '''
+- On Windows, use command prompt to run ` python vandalism-detector `
   - #### Arguments
-    - ''' python vandalism-detector -v "path to video file" '''
-    - ''' python vandalism-detector -a "Monitoring Area size " '''
+    - ` python vandalism-detector -v "path to video file" `
+    - ` python vandalism-detector -a "Monitoring Area size " `
     
 ## Acknowledgements
 [PyImageSearch](https://www.pyimagesearch.com/) tutorials have been extremely useful for utilizing various python libraries.
