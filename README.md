@@ -19,8 +19,8 @@
 - Make sure you have all the python libraries installed. (I suggest installing Anaconda) 
 - On Windows, use command prompt to run ` python vandalism-detector `
   - #### Arguments
-    - ` python vandalism-detector -v "path to video file" `
-    - ` python vandalism-detector -a "Monitoring Area size " `
+    - For passing a video file` python vandalism-detector -v "path to video file" `
+    - For passing size of Monitoring Area  ` python vandalism-detector -a "Monitoring Area size " `. Default size is 500.
     - If no arguments are passed, the program automatically uses Webcam as default video source.
     
 ## Acknowledgements
