@@ -25,6 +25,6 @@
 ## References
 - [SSIM](https://en.wikipedia.org/wiki/Structural_similarity)
 - [Background Subtraction](https://en.wikipedia.org/wiki/Foreground_detection#Background_subtraction)
-- OpenCV [documentation](https://docs.opencv.org/master/)
+- [OpenCV documentation](https://docs.opencv.org/master/)
 ## Acknowledgements
 [PyImageSearch](https://www.pyimagesearch.com/) tutorials have been extremely useful for utilizing various python libraries.
