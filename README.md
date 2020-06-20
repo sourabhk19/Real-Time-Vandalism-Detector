@@ -2,7 +2,7 @@
 
 ## Objective 
 
-- To build a light-weight real-time vandalism detection with Image processing techniqies which can be run on modest processors like Raspberry-pi. 
+- To build a light-weight real-time vandalism detection with Image processing techniques which can be run on small processors like Raspberry-pi. 
 - The input is real-time surveillance footage.
 - The system should immediately alert the user if vandalism is detected on the property monitored.
 
