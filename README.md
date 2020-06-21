@@ -1,5 +1,7 @@
 # Real-Time-Vandalism-Detector
 
+![image 1](https://github.com/sourabhk19/Real-Time-Vandalism-Detector/blob/master/Readme_images/Vandalism.jpg)
+
 ## Objective 
 
 - To build a light-weight real-time vandalism detector with Image processing techniques which can be run on small processors like Raspberry-pi. 
